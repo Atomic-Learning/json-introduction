@@ -1,21 +1,19 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "JSON: Introduction",
+    "slug": "json-introduction",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "software-engineering",
+        "json"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
+        "json-arrays",
+        "json-objects",
+        "javascript-introduction"
     ]
 }
