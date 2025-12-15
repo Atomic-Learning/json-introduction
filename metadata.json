@@ -1,6 +1,7 @@
 {
     "title": "JSON: Introduction",
     "slug": "json-introduction",
+    "description": "An introduction to the json file format.",
     "authors": [
         "chris-cooling"
     ],
